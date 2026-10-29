@@ -64,5 +64,112 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Bria8f2b is a company surfaced via the API Evangelist harvest backlog (source: secondary-market) and added to the network as a stub for full-pipeline profiling.
-- https://equityzen.com/company/bria8f2b
+Bria (Bria.ai) provides controllable visual AI solutions for enterprises, offering product shot generation, tailored image creation, and visual PaaS across industries such as tech, marketing, ecommerce, media, and gaming. The platform includes extensive API documentation, a status page, pricing, blog, and resources for responsible AI, security, and compliance, positioning itself as a comprehensive visual AI service for businesses.
+
+**Areas:** Company · Artificial Intelligence · Visual · Enterprise · Imaging
+
+## Bria8f2b on APIs.io
+
+Everything profiled for Bria8f2b is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/bria8f2b/](https://apis.io/providers/bria8f2b/)** — or go straight to one of the APIs or properties below.
+
+### APIs (8)
+
+- [Bria8f2b AI Search API](https://apis.io/apis/bria8f2b/bria8f2b-ai-search-api/) — The AI Search API from Bria8f2b — 3 operation(s) for ai search.
+- [Bria8f2b Campaign Generation (Coming soon) API](https://apis.io/apis/bria8f2b/bria8f2b-campaign-generation-coming-soon-api/) — The Campaign Generation (Coming soon) API from Bria8f2b — 4 operation(s) for campaign generation (coming soon).
+- [Bria8f2b Image Editing API](https://apis.io/apis/bria8f2b/bria8f2b-image-editing-api/) — The Image Editing API from Bria8f2b — 13 operation(s) for image editing.
+- [Bria8f2b Image Generation API](https://apis.io/apis/bria8f2b/bria8f2b-image-generation-api/) — The Image Generation API from Bria8f2b — 7 operation(s) for image generation.
+- [Bria8f2b Image Onboarding API](https://apis.io/apis/bria8f2b/bria8f2b-image-onboarding-api/) — The Image Onboarding API from Bria8f2b — 2 operation(s) for image onboarding.
+- [Bria8f2b Product Shots Generation API](https://apis.io/apis/bria8f2b/bria8f2b-product-shots-generation-api/) — The Product Shots Generation API from Bria8f2b — 7 operation(s) for product shots generation.
+- [Bria8f2b Tailored Generation API](https://apis.io/apis/bria8f2b/bria8f2b-tailored-generation-api/) — The Tailored Generation API from Bria8f2b — 15 operation(s) for tailored generation.
+- [Bria8f2b Video Editing API](https://apis.io/apis/bria8f2b/bria8f2b-video-editing-api/) — The Video Editing API from Bria8f2b — 1 operation(s) for video editing.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Bria8f2b API Rules](https://apis.io/rules/bria8f2b/bria8f2b-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Bria8F2B Authentication](https://apis.io/security/bria8f2b/bria8f2b-authentication/)
+- [Bria8F2B Domain Security](https://apis.io/security/bria8f2b/bria8f2b-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Bria8F2B Plans Pricing](https://apis.io/plans/bria8f2b/bria8f2b-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://bria.ai)
+- [Documentation](https://docs.bria.ai/)
+- [Getting started](https://docs.bria.ai/getting-started/asset-retention)
+- [Pricing](https://bria.ai/pricing)
+- [Blog](https://bria.ai/blog)
+- [Terms of service](https://bria.ai/terms-of-use)
+- [Privacy policy](https://bria.ai/privacy-policy)
+- [GitHub](https://github.com/Bria-AI)
+
+## API Evangelist rating
+
+**Kin Score 42.5** — developing · rubric 0.25.0 · scored 2026-10-23
+
+| Facet | Score |
+|---|---|
+| Discoverability | 73.2 |
+| Contract quality | 46.8 |
+| Contract governance | 18.2 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 37.5 |
+| Access clarity | 63.2 |
+
+**Agent readiness 23.0** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | derived (partial credit) |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/bria8f2b/](https://apis.io/providers/bria8f2b/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Bria8f2b: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/bria8f2b/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
